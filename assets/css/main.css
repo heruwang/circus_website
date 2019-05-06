@@ -215,7 +215,10 @@
 		}
 
 	}
-
+	.test {
+		font-size:200px;
+	  cursor: url("../../images/BullHook.png"),col-resize;
+	}
 /* Grid */
 
 	.row {
@@ -3657,6 +3660,7 @@
 
 	body.subpage {
 		padding-top: 3.25em;
+		cursor: url("../../images/BullHook.png"),col-resize;
 	}
 
 	@-moz-keyframes reveal-header {
